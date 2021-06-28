@@ -1,6 +1,8 @@
-DB_HOST=""
-DB_PORT=""
-DB_USERNAME=""
-DB_PASSWORD=""
-DB_NAME=""
-SECRET_KEY=""
+#ENV
+
+DB_HOST=""  
+DB_PORT=""  
+DB_USERNAME=""  
+DB_PASSWORD=""  
+DB_NAME=""  
+SECRET_KEY=""  
